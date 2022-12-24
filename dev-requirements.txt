@@ -3,3 +3,4 @@
 flake8==3.7.6
 pytest==4.3.1
 pytest-cov==2.6.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
